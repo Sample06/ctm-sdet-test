@@ -4,8 +4,7 @@
 
 1. JDK 8
 2. Maven 4
-3. Eclipse Neon
-4. Selenium standalone server
+3. Eclipse Neon 
 
 Note: pom.xml has all the dependencies required for this framework. You may required Natural plugin (if not installed already in your Eclipse)
 
